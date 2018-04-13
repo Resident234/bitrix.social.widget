@@ -1,0 +1,25 @@
+{
+  "name": "gsu/bitrix.social.widget",
+  "description": "Social widgets component for Bitrix",
+  "keywords": ["bitrix", "components"],
+  "homepage": "https://github.com/Resident234/bitrix.social.widget",
+  "type": "bitrix-d7-component",
+  "license": "MIT",
+  "support": {
+    "email": "gsu1234@mail.ru",
+    "skype": "gsu_resident234",
+    "issues": "https://github.com/Resident234/bitrix.social.widget/issues",
+    "source": "https://github.com/Resident234/bitrix.social.widget/"
+  },
+  "authors": [
+    {
+      "name": "Sergey Gladyshev",
+      "homepage": "http://resident234.xyz",
+      "email": "gsu1234@mail.ru"
+    }
+  ],
+  "require": {
+    "php":">=5.4.0",
+    "composer/installers": "~1"
+  }
+}
